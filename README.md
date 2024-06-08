@@ -69,8 +69,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/travel_ui.git
-cd travel_ui
+git clone https://github.com/amannn007/travel_ui_.git
+cd travel_ui_
 ```
 
 **Installation**
